@@ -3,6 +3,6 @@ The heart disease dataset was used. It consists of 303 instances and 14 attribut
 
 Part 1: Data Preprocessing, Exploratory Data Analysis <br />
 Part 2, Feature Extraction / Selection <br />
-Part 3: Classification / Prediction (Logistis Regression, Random Trees, Naive Bayes) <br />
+Part 3: Classification / Prediction (Logistic Regression, Random Trees, Naive Bayes) <br />
 Part 4: Clustering (KMeans, DBSCAN) <br />
 Part 5: Association Rules
